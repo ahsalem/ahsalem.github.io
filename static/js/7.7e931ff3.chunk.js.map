@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/support/index.js"],"names":["Support"],"mappings":"4FAAA,2BAMeA,UAJC,WACd,OAAO","file":"static/js/7.7e931ff3.chunk.js","sourcesContent":["import React from \"react\"\n\nconst Support = () => {\n  return <div>Support</div>\n}\n\nexport default Support\n"],"sourceRoot":""}
